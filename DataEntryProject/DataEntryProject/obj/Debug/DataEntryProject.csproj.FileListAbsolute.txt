@@ -1,0 +1,11 @@
+D:\RUPP\Year3\C#Udemy\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.csproj.AssemblyReference.cache
+D:\RUPP\Year3\C#Udemy\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.csproj.SuggestedBindingRedirects.cache
+D:\RUPP\Year3\C#Udemy\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.Properties.Resources.resources
+D:\RUPP\Year3\C#Udemy\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.csproj.GenerateResource.cache
+D:\RUPP\Year3\C#Udemy\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.csproj.CoreCompileInputs.cache
+D:\RUPP\Year3\C#Udemy\DataEntryProject\DataEntryProject\bin\Debug\DataEntryProject.exe.config
+D:\RUPP\Year3\C#Udemy\DataEntryProject\DataEntryProject\bin\Debug\DataEntryProject.exe
+D:\RUPP\Year3\C#Udemy\DataEntryProject\DataEntryProject\bin\Debug\DataEntryProject.pdb
+D:\RUPP\Year3\C#Udemy\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.formDataEntry.resources
+D:\RUPP\Year3\C#Udemy\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.exe
+D:\RUPP\Year3\C#Udemy\DataEntryProject\DataEntryProject\obj\Debug\DataEntryProject.pdb

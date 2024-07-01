@@ -1,0 +1,11 @@
+D:\RUPP\Year3\C#Udemy\AcessConnection\AcessConnection\bin\x64\Debug\AcessConnection.exe.config
+D:\RUPP\Year3\C#Udemy\AcessConnection\AcessConnection\bin\x64\Debug\AcessConnection.exe
+D:\RUPP\Year3\C#Udemy\AcessConnection\AcessConnection\bin\x64\Debug\AcessConnection.pdb
+D:\RUPP\Year3\C#Udemy\AcessConnection\AcessConnection\obj\x64\Debug\AcessConnection.csproj.AssemblyReference.cache
+D:\RUPP\Year3\C#Udemy\AcessConnection\AcessConnection\obj\x64\Debug\AcessConnection.csproj.SuggestedBindingRedirects.cache
+D:\RUPP\Year3\C#Udemy\AcessConnection\AcessConnection\obj\x64\Debug\AcessConnection.frmDatabase.resources
+D:\RUPP\Year3\C#Udemy\AcessConnection\AcessConnection\obj\x64\Debug\AcessConnection.Properties.Resources.resources
+D:\RUPP\Year3\C#Udemy\AcessConnection\AcessConnection\obj\x64\Debug\AcessConnection.csproj.GenerateResource.cache
+D:\RUPP\Year3\C#Udemy\AcessConnection\AcessConnection\obj\x64\Debug\AcessConnection.csproj.CoreCompileInputs.cache
+D:\RUPP\Year3\C#Udemy\AcessConnection\AcessConnection\obj\x64\Debug\AcessConnection.exe
+D:\RUPP\Year3\C#Udemy\AcessConnection\AcessConnection\obj\x64\Debug\AcessConnection.pdb

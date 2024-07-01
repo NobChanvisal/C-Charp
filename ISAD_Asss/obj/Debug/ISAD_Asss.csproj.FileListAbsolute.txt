@@ -1,0 +1,13 @@
+D:\RUPP\Year3\MyCsharp\ISAD_Asss\bin\Debug\ISAD_Asss.exe.config
+D:\RUPP\Year3\MyCsharp\ISAD_Asss\bin\Debug\ISAD_Asss.exe
+D:\RUPP\Year3\MyCsharp\ISAD_Asss\bin\Debug\ISAD_Asss.pdb
+D:\RUPP\Year3\MyCsharp\ISAD_Asss\obj\Debug\ISAD_Asss.csproj.AssemblyReference.cache
+D:\RUPP\Year3\MyCsharp\ISAD_Asss\obj\Debug\ISAD_Asss.Properties.Resources.resources
+D:\RUPP\Year3\MyCsharp\ISAD_Asss\obj\Debug\ISAD_Asss.csproj.GenerateResource.cache
+D:\RUPP\Year3\MyCsharp\ISAD_Asss\obj\Debug\ISAD_Asss.csproj.CoreCompileInputs.cache
+D:\RUPP\Year3\MyCsharp\ISAD_Asss\obj\Debug\ISAD_Asss.exe
+D:\RUPP\Year3\MyCsharp\ISAD_Asss\obj\Debug\ISAD_Asss.pdb
+D:\RUPP\Year3\MyCsharp\ISAD_Asss\obj\Debug\ISAD_Asss.LogInForm.resources
+D:\RUPP\Year3\MyCsharp\ISAD_Asss\obj\Debug\ISAD_Asss.Home.resources
+D:\RUPP\Year3\MyCsharp\ISAD_Asss\obj\Debug\ISAD_Asss.CustomerForm.resources
+D:\RUPP\Year3\MyCsharp\ISAD_Asss\obj\Debug\ISAD_Asss.StaffForm.resources

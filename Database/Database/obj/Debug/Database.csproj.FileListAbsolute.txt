@@ -1,0 +1,11 @@
+D:\RUPP\Year3\C#Udemy\Database\Database\bin\Debug\Database.exe.config
+D:\RUPP\Year3\C#Udemy\Database\Database\bin\Debug\Database.exe
+D:\RUPP\Year3\C#Udemy\Database\Database\bin\Debug\Database.pdb
+D:\RUPP\Year3\C#Udemy\Database\Database\obj\Debug\Database.csproj.AssemblyReference.cache
+D:\RUPP\Year3\C#Udemy\Database\Database\obj\Debug\Database.csproj.SuggestedBindingRedirects.cache
+D:\RUPP\Year3\C#Udemy\Database\Database\obj\Debug\Database.frmTitle.resources
+D:\RUPP\Year3\C#Udemy\Database\Database\obj\Debug\Database.Properties.Resources.resources
+D:\RUPP\Year3\C#Udemy\Database\Database\obj\Debug\Database.csproj.GenerateResource.cache
+D:\RUPP\Year3\C#Udemy\Database\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+D:\RUPP\Year3\C#Udemy\Database\Database\obj\Debug\Database.exe
+D:\RUPP\Year3\C#Udemy\Database\Database\obj\Debug\Database.pdb

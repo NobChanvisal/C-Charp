@@ -1,0 +1,16 @@
+D:\RUPP\Year3\C#Udemy\StudentDataEntry\StudentDataEntry\bin\Debug\StudentDataEntry.exe.config
+D:\RUPP\Year3\C#Udemy\StudentDataEntry\StudentDataEntry\bin\Debug\StudentDataEntry.exe
+D:\RUPP\Year3\C#Udemy\StudentDataEntry\StudentDataEntry\bin\Debug\StudentDataEntry.pdb
+D:\RUPP\Year3\C#Udemy\StudentDataEntry\StudentDataEntry\obj\Debug\StudentDataEntry.csproj.AssemblyReference.cache
+D:\RUPP\Year3\C#Udemy\StudentDataEntry\StudentDataEntry\obj\Debug\StudentDataEntry.csproj.SuggestedBindingRedirects.cache
+D:\RUPP\Year3\C#Udemy\StudentDataEntry\StudentDataEntry\obj\Debug\StudentDataEntry.Properties.Resources.resources
+D:\RUPP\Year3\C#Udemy\StudentDataEntry\StudentDataEntry\obj\Debug\StudentDataEntry.csproj.GenerateResource.cache
+D:\RUPP\Year3\C#Udemy\StudentDataEntry\StudentDataEntry\obj\Debug\StudentDataEntry.csproj.CoreCompileInputs.cache
+D:\RUPP\Year3\C#Udemy\StudentDataEntry\StudentDataEntry\obj\Debug\StudentDataEntry.exe
+D:\RUPP\Year3\C#Udemy\StudentDataEntry\StudentDataEntry\obj\Debug\StudentDataEntry.pdb
+D:\RUPP\Year3\C#Udemy\StudentDataEntry\StudentDataEntry\obj\Debug\StudentDataEntry.stuForm.resources
+D:\RUPP\MyCsharp\StudentDataEntry\StudentDataEntry\obj\Debug\StudentDataEntry.csproj.AssemblyReference.cache
+D:\RUPP\MyCsharp\StudentDataEntry\StudentDataEntry\obj\Debug\StudentDataEntry.stuForm.resources
+D:\RUPP\MyCsharp\StudentDataEntry\StudentDataEntry\obj\Debug\StudentDataEntry.csproj.GenerateResource.cache
+D:\RUPP\MyCsharp\StudentDataEntry\StudentDataEntry\obj\Debug\StudentDataEntry.exe
+D:\RUPP\MyCsharp\StudentDataEntry\StudentDataEntry\obj\Debug\StudentDataEntry.pdb
