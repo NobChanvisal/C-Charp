@@ -9,3 +9,13 @@ D:\RUPP\Year3\C#Udemy\AcessConnection\AcessConnection\obj\Debug\AcessConnection.
 D:\RUPP\Year3\C#Udemy\AcessConnection\AcessConnection\obj\Debug\AcessConnection.exe
 D:\RUPP\Year3\C#Udemy\AcessConnection\AcessConnection\obj\Debug\AcessConnection.pdb
 D:\RUPP\Year3\C#Udemy\AcessConnection\AcessConnection\obj\Debug\AcessConnection.frmDatabase.resources
+D:\RUPP\MyCsharp\AcessConnection\AcessConnection\bin\Debug\AcessConnection.exe.config
+D:\RUPP\MyCsharp\AcessConnection\AcessConnection\bin\Debug\AcessConnection.exe
+D:\RUPP\MyCsharp\AcessConnection\AcessConnection\bin\Debug\AcessConnection.pdb
+D:\RUPP\MyCsharp\AcessConnection\AcessConnection\obj\Debug\AcessConnection.csproj.AssemblyReference.cache
+D:\RUPP\MyCsharp\AcessConnection\AcessConnection\obj\Debug\AcessConnection.frmDatabase.resources
+D:\RUPP\MyCsharp\AcessConnection\AcessConnection\obj\Debug\AcessConnection.Properties.Resources.resources
+D:\RUPP\MyCsharp\AcessConnection\AcessConnection\obj\Debug\AcessConnection.csproj.GenerateResource.cache
+D:\RUPP\MyCsharp\AcessConnection\AcessConnection\obj\Debug\AcessConnection.csproj.CoreCompileInputs.cache
+D:\RUPP\MyCsharp\AcessConnection\AcessConnection\obj\Debug\AcessConnection.exe
+D:\RUPP\MyCsharp\AcessConnection\AcessConnection\obj\Debug\AcessConnection.pdb

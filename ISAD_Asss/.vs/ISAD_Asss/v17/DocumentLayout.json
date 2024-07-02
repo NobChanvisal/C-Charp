@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\",
+  "WorkspaceRootPath": "D:\\RUPP\\MyCsharp\\ISAD_Asss\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|D:\\RUPP\\MyCsharp\\ISAD_Asss\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|solutionrelative:staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|d:\\rupp\\year3\\mycsharp\\isad_asss\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|solutionrelative:staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|solutionrelative:customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|D:\\RUPP\\MyCsharp\\ISAD_Asss\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|solutionrelative:customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\myoper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|D:\\RUPP\\MyCsharp\\ISAD_Asss\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|d:\\rupp\\mycsharp\\isad_asss\\myoper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|solutionrelative:myoper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|D:\\RUPP\\MyCsharp\\ISAD_Asss\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|D:\\RUPP\\MyCsharp\\ISAD_Asss\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|D:\\RUPP\\MyCsharp\\ISAD_Asss\\staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|solutionrelative:staffform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|D:\\RUPP\\MyCsharp\\ISAD_Asss\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44C72728-E913-488B-953B-3BA37169B7C5}|ISAD_Asss.csproj|solutionrelative:customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -52,47 +52,47 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StaffForm.cs",
-              "DocumentMoniker": "D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\StaffForm.cs",
+              "DocumentMoniker": "D:\\RUPP\\MyCsharp\\ISAD_Asss\\StaffForm.cs",
               "RelativeDocumentMoniker": "StaffForm.cs",
-              "ToolTip": "D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\StaffForm.cs",
+              "ToolTip": "D:\\RUPP\\MyCsharp\\ISAD_Asss\\StaffForm.cs",
               "RelativeToolTip": "StaffForm.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAzwGsAAAAjAAAA",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAYwGYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T07:57:46.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Home.cs",
-              "DocumentMoniker": "D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\Home.cs",
+              "DocumentMoniker": "D:\\RUPP\\MyCsharp\\ISAD_Asss\\Home.cs",
               "RelativeDocumentMoniker": "Home.cs",
-              "ToolTip": "D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\Home.cs",
+              "ToolTip": "D:\\RUPP\\MyCsharp\\ISAD_Asss\\Home.cs",
               "RelativeToolTip": "Home.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAA0wCIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T19:56:47.944Z",
+              "WhenOpened": "2024-05-23T19:56:47.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "myOper.cs",
+              "DocumentMoniker": "D:\\RUPP\\MyCsharp\\ISAD_Asss\\myOper.cs",
+              "RelativeDocumentMoniker": "myOper.cs",
+              "ToolTip": "D:\\RUPP\\MyCsharp\\ISAD_Asss\\myOper.cs",
+              "RelativeToolTip": "myOper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:25:38.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "myOper.cs",
-              "DocumentMoniker": "D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\myOper.cs",
-              "RelativeDocumentMoniker": "myOper.cs",
-              "ToolTip": "D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\myOper.cs",
-              "RelativeToolTip": "myOper.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T07:25:38.004Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "StaffForm.cs [Design]",
-              "DocumentMoniker": "D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\StaffForm.cs",
+              "DocumentMoniker": "D:\\RUPP\\MyCsharp\\ISAD_Asss\\StaffForm.cs",
               "RelativeDocumentMoniker": "StaffForm.cs",
-              "ToolTip": "D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\StaffForm.cs [Design]",
+              "ToolTip": "D:\\RUPP\\MyCsharp\\ISAD_Asss\\StaffForm.cs [Design]",
               "RelativeToolTip": "StaffForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T07:19:23.221Z",
@@ -100,49 +100,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "CustomerForm.cs [Design]",
-              "DocumentMoniker": "D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\CustomerForm.cs",
+              "DocumentMoniker": "D:\\RUPP\\MyCsharp\\ISAD_Asss\\CustomerForm.cs",
               "RelativeDocumentMoniker": "CustomerForm.cs",
-              "ToolTip": "D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\CustomerForm.cs [Design]",
+              "ToolTip": "D:\\RUPP\\MyCsharp\\ISAD_Asss\\CustomerForm.cs [Design]",
               "RelativeToolTip": "CustomerForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T18:59:12.311Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Home.cs [Design]",
-              "DocumentMoniker": "D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\Home.cs",
-              "RelativeDocumentMoniker": "Home.cs",
-              "ToolTip": "D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\Home.cs [Design]",
-              "RelativeToolTip": "Home.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T08:11:02.597Z",
+              "WhenOpened": "2024-05-20T18:59:12.311Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "DocumentIndex": 4,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "D:\\RUPP\\MyCsharp\\ISAD_Asss\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\Home.cs [Design]",
+              "RelativeToolTip": "..\\..\\Year3\\MyCsharp\\ISAD_Asss\\Home.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T07:38:06.32Z"
+              "WhenOpened": "2024-05-20T08:11:02.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CustomerForm.cs",
-              "DocumentMoniker": "D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\CustomerForm.cs",
-              "RelativeDocumentMoniker": "CustomerForm.cs",
-              "ToolTip": "D:\\RUPP\\Year3\\MyCsharp\\ISAD_Asss\\CustomerForm.cs",
-              "RelativeToolTip": "CustomerForm.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAA1wEcAAAAJAAAA",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\RUPP\\MyCsharp\\ISAD_Asss\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\RUPP\\MyCsharp\\ISAD_Asss\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T07:40:39.42Z"
+              "WhenOpened": "2024-05-20T07:38:06.32Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "D:\\RUPP\\MyCsharp\\ISAD_Asss\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "CustomerForm.cs",
+              "ToolTip": "D:\\RUPP\\MyCsharp\\ISAD_Asss\\CustomerForm.cs",
+              "RelativeToolTip": "CustomerForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:40:39.42Z",
+              "EditorCaption": ""
             }
           ]
         }
