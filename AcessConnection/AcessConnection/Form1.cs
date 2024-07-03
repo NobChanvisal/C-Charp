@@ -82,7 +82,7 @@ namespace AcessConnection
             cmd = new OleDbCommand(query, conn);
             cmd.Parameters.AddWithValue("@id", Convert.ToInt32(txtID.Text));
             conn.Open();
-            cmd.ExecuteNonQuery();
+            cmd.ExecuteNonQuery();  
             conn.Close();
             MessageBox.Show("Delete Successful!!");
             GetCustomer();
